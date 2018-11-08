@@ -6,6 +6,8 @@
 
 using namespace eosio;
 
+//old contracts change to new contracts
+
 /**
  * This example illustrate how to call http api in EOS contract.Currently only support http get and post method.
  */
